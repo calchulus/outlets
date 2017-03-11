@@ -2,10 +2,12 @@
 Find me on social media!
 
 
-Twitter
+[Twitter] (https://twitter.com/magicalvinchu)
 
 
-LinkedIn
+[LinkedIn] (https://www.linkedin.com/in/calvinchu19/)
 
+
+[Github] (https://github.com/calchulus)
 
 #MycroChange Links
